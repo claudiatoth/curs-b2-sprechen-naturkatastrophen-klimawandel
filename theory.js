@@ -37,6 +37,18 @@ const theoryHTML = `
                 </ul>
             </div>
 
+            <div class="theory-box" style="background: #ecfdf5; border-color: #10b981;">
+                <h4>🔤 Tipologia vocabularului B2 — Sg/Pl orientativ</h4>
+                <p>La nivelul B2, substantivele din tabelele de mai jos sunt majoritar <strong>fenomene naturale</strong> sau <strong>concepte abstracte</strong>. Iată tipologia:</p>
+                <ul style="margin-left: 18px;">
+                    <li><strong>Concepte sg tantum</strong>: <em>der Klimawandel, die Erderwärmung, der Treibhauseffekt, die Atmosphäre, die Wasserknappheit</em></li>
+                    <li><strong>Substantive concrete cu plural</strong>: <em>die Hitzewelle · die Hitzewellen</em> · <em>die Dürre · die Dürren</em> · <em>die Rekordtemperatur · die Rekordtemperaturen</em> · <em>der Hitzschlag · die Hitzschläge</em></li>
+                    <li><strong>Substantive deja la plural</strong>: <em>die Treibhausgase, die Polkappen, die Gletscher</em></li>
+                    <li><strong>Colocații verbale</strong>: „der Meeresspiegel steigt", „die Polkappen schmelzen" — formule fixe</li>
+                </ul>
+                <p style="margin-top: 8px;">Pentru substantivele concrete noi, verifică pluralul pe <a href="https://de.pons.com/deklination/deutsch" target="_blank" style="color: #047857;">PONS</a> — la examenul B2, precizia gen+plural face diferența.</p>
+            </div>
+
             <div class="theory-box" style="background: #fef3c7; border-color: #f59e0b;">
                 <h4>💡 Diferența față de lecția anterioară</h4>
                 <p>Lecția <em>Klimaschutz</em> (B2 Sprechen #2) a fost despre <strong>responsabilitate</strong> (individ vs. politică). Aici trecem la <strong>fenomene concrete</strong> și <strong>vocabular descriptiv</strong> — care sunt dezastrele, cum le numești corect în germană, cum descrii un eveniment, ce consecințe au.</p>
